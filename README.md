@@ -3,6 +3,10 @@
 
 ---
 
+<p align="center">
+  <img src="https://i.imgur.com/8Km9tLL.png" width="500"/>
+</p>
+
 ---
 
 ### 👩‍💻 About Me
@@ -44,4 +48,3 @@
 ---
 
 ⭐ *Thank you for visiting my profile!*
-
