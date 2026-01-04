@@ -1,4 +1,4 @@
-0<h1 align="center">✨ Hi 👋, I'm Joita Paul ✨</h1>
+<h1 align="center">✨ Hi 👋, I'm Joita Paul ✨</h1>
 <h3 align="center">A Computer Science undergraduate passionate about web development and problem-solving.  
 Actively learning, experimenting, and growing through hands-on projects. 🚀</h3>
 
