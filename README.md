@@ -13,12 +13,26 @@ Actively learning, experimenting, and growing through hands-on projects. 🚀</h
 - ✨ Loves learning innovative things
 
 ---
+
 ## 🛠️ Tech Stack
 
-<h3>🛠️ Skills</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github&theme=dark" alt="Skills" />
+### 💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=c,cpp,java,python,js,html,css,ts&theme=dark" />
 </p>
+
+### ⚙️ Tools & Platforms
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,postman&theme=dark" />
+</p>
+
+### 🌟 Other Skills
+- 🧠 Object-Oriented Programming (OOP)
+- 🧩 Problem Solving
+- 🤝 Teamwork & Collaboration
+- 🔄 Adaptability
+- 🌐 Web Development
+- 💬 Strong Communication
 
 
 ---
