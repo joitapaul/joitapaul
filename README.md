@@ -12,12 +12,13 @@
 - ✨ Loves learning innovative things
 
 ---
-
 ## 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
+<h3>🛠️ Skills</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github&theme=dark" alt="Skills" />
 </p>
+
 
 ---
 
