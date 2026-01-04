@@ -1,11 +1,10 @@
 <h1 align="center">✨ Hi 👋, I'm Joita Paul ✨</h1>
-<h3 align="center">Learner | Frontend Developer | Tech Enthusiast 🚀</h3>
+<h3 align="center">Learner | Full Stack Developer |D Tech Enthusiast 🚀</h3>
+
 
 ---
 
----
-
-### 👩‍💻 About Me
+## 👩‍💻 About Me
 
 - 🎓 B.Tech CSE Student at **Adamas University**
 - 🌱 Currently learning **Web Development & JavaScript**
@@ -14,7 +13,7 @@
 
 ---
 
-### 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
 <p align="left">
   <img src="https://skillicons.dev/icons?i=html,css,js,react,git,github" />
@@ -22,7 +21,7 @@
 
 ---
 
-### 📊 GitHub Stats
+  ## 📊 GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=joitapaul&show_icons=true&theme=radical" />
