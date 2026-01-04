@@ -23,13 +23,7 @@ Actively learning, experimenting, and growing through hands-on projects. 🚀</h
 
 ---
 
-  ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=joitapaul&show_icons=true&theme=radical" />
-</p>
-
----
 
 ### 🔗 Connect With Me
 
