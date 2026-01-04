@@ -8,8 +8,8 @@ Actively learning, experimenting, and growing through hands-on projects. 🚀</h
 ## 👩‍💻 About Me
 
 - 🎓 B.Tech CSE Student at **Adamas University**
-- 🌱 Currently learning **Web Development & JavaScript**
-- 💡 Interested in **Frontend, UI Design & Problem Solving**
+- 🌱 Currently learning **Web Development & Data Science**
+- 💡 Interested in **Frontend,Backend, UI Design & Problem Solving**
 - ✨ Loves learning innovative things
 
 ---
