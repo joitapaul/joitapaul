@@ -32,7 +32,7 @@ Actively learning, experimenting, and growing through hands-on projects. 🚀</h
 - 🤝 Teamwork & Collaboration
 - 🔄 Adaptability
 - 🌐 Web Development
-- 💬 Strong interaction
+- 💬 Strong Communication
 
 
 ---
