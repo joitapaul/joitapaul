@@ -39,7 +39,7 @@ Actively learning, experimenting, and growing through hands-on projects. 🚀</h
 
 
 
-### 🔗 Connect With Me
+### 🔗 Connect With Me Joita
 
 <p align="left">
   <a href="https://www.linkedin.com/" target="_blank">
