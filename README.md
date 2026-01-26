@@ -11,6 +11,7 @@ Actively learning, experimenting, and growing through hands-on projects. 🚀</h
 - 🌱 Currently learning **Web Development & Data Science**
 - 💡 Interested in **Frontend,Backend, UI Design & Problem Solving**
 - ✨ Loves learning innovative things
+-    Always ready to solve any kind of prolems
 
 ---
 
